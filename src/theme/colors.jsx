@@ -18,6 +18,7 @@ export const colors = {
       secondary: "#F1F1F1",
     },
     text: {
+      heading:" #7a1e1e" ,
       primary: "#262626",
       secondary: "#757575",
       disabled: "#9C9C9C",
